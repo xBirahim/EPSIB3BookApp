@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105143119874",
+    "project_id": "epsib3bookapp",
+    "storage_bucket": "epsib3bookapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105143119874:android:5014e881aad64016ab371b",
+        "android_client_info": {
+          "package_name": "com.epsi.epsib3bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105143119874-cvm3cn9rfebg76kn1dva23k6pc1gdl9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfrcf4C3oFLvVdHHG7sLQnp-7pweMFPT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105143119874-cvm3cn9rfebg76kn1dva23k6pc1gdl9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Read</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">Create account</string>
+    <string name="or">Or</string>
+    <string name="sign_in">Sign in</string>
+    <string name="you_are_signed_in">You are signed in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="element_text">Un element</string>
+</resources>
